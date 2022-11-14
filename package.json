@@ -46,7 +46,20 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src/index.js",
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidCortesA/pokedux.git"
+  },
+  "keywords": [
+    "'pokemon'"
+  ],
+  "author": "David Cortez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidCortesA/pokedux/issues"
   }
 }
