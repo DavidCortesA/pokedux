@@ -1,5 +1,9 @@
 {
   "homepage": "https://davidcortesa.github.io/pokedux/",
+  "author": {
+    "name": "David Cortez",
+    "email": "david.cortes.ayala@hotmail.com"
+  },
   "name": "pokedux",
   "version": "0.1.0",
   "private": true,
